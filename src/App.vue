@@ -19,7 +19,7 @@ import { ref, computed, onMounted } from "vue";
 import { useToast } from "vue-toastification";
 const toast = useToast();
 
-const title = "Expense Tracker";
+const title = "Expense Tracker!!!";
 
 const transactions = ref([]);
 
